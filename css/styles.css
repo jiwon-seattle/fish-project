@@ -1,0 +1,15 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.highlight {
+  font-style: italic;
+}
+
+.fish-type {
+  color: pink;
+}
